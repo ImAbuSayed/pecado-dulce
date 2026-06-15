@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pecado-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pecado dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pecado-dulce/) |
+| **Get License** | [Get a Licensing Quote for Pecado dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pecado-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `58268e947010f45acf0d769ad5a0be0d27d9aff21ae9dc81fcc0fca86a01bc47` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
